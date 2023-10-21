@@ -1,4 +1,11 @@
-# minishell
+
+<div align=center>
+<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/minishellm.png alt=Xanaco's 42Project Badge/>
+<h2>Final score</h2>
+<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/101Grade.png alt=Xanaco's 42Project Score/>
+<h4>Completed + Bonus</h4>
+<h5>Outstanding Project 1/3</h5>
+</div>
 
 This is a group project, made with [@leevyh](https://github.com/leevyh)
 
